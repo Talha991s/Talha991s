@@ -1,10 +1,10 @@
 # Hi there, I am Salick Talhah 👋
 
-🙋🏽‍♂️###About Me
+###🙋🏽‍♂️About Me
 I 
 
 
-👨🏽‍💻 ###Tech Stack
+###👨🏽‍💻Tech Stack
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
