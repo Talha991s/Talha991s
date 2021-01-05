@@ -7,7 +7,7 @@ I
 ### 👨🏽‍💻Tech Stack
 
 #### Here are a few things I've picked up along my journey. 
-- 💻 C++, C#, Java, Python, PHP, CSS, HTML.
+- 💻 C++, C#, Java, Python, PHP, CSS, HTML, Swift.
 - 🕹️ Unity 2D & 3D.
 - 🕹️ Unreal Engine 4 and Blueprints.
 - 🎨 Design with Blender.
@@ -25,11 +25,19 @@ I
 - Advance Python.
 - Flutter.
 - Blender Animation.
-- Robust Online Multiplayer System
+- Robust Online Multiplayer System.
+
+### 🌱 Future Plans
+- Learn Artificial Intelligence for Cyber Security.
+- Get the AWS Certification.
+- Master Blender. 
+- Get more practice with IOS development. 
 
 
 
+###### Reach out to me via emails or LinkedIn to talk about possible opportunities, mentorship, collaborations and everything in between!
 
+####### you can check out some of my games below.
 <!--
 **Talha991s/Talha991s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
