@@ -18,7 +18,11 @@ I
 
 ### 📽️ Current Projects
 - Completing my last Semester for Game Programming April 2021. [Check it out!](https://www.georgebrown.ca/programs/game-programming-program-t163)
-- Working on a Car Racing game
+- 🚗 Working on a Car Racing game
+
+### 📚 What I'm learning
+- Advance Python.
+- Flutter.
 
 
 
