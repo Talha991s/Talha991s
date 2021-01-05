@@ -17,6 +17,14 @@ I
 - ☁️ AWS Cloudbase networking.
 
 ### 📽️ Current Projects
+- Completing my last Semester for Game Programming April 2021. [Check it out! ] {https://www.georgebrown.ca/programs/game-programming-program-t163}
+- Working on a Car Racing game
+
+
+
+<!--
+**Talha991s/Talha991s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -27,8 +35,3 @@ I
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!--
-**Talha991s/Talha991s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
