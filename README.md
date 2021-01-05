@@ -14,8 +14,9 @@ I
 - 📱  Mobile Game Development.
 - 🎮 Console Game Development.
 - 🖌️ OpenGL, DirectX 11.
+- ☁️ AWS Cloudbase networking.
 
-
+### 📽️ Current Projects
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
