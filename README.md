@@ -40,7 +40,7 @@ First and foremost, I am, a passionate learner, who is eager to know more (Googl
 
 
 
-###### Check out some of my games below.
+###### Check out some of my projects below.
 ###### Reach out to me via emails or LinkedIn to talk about possible opportunities, mentorship, collaborations and everything in between!
 
 
