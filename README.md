@@ -1,7 +1,10 @@
 # Hi there, I am Salick Talhah 👋
 
 ### 🙋🏽‍♂️About Me
-I 
+I believe human beings are far too complex to be reduce in a few words, I wear many hats depending on what is required of me, but here are some parts of me.
+First and foremost, I am, a passionate learner, who is eager to know more (Google is my bestfriend), a Game Programmer, a Level designer. I am also a team worker who look forward to bring my team to his goal. 
+
+###### Learning never ends.  
 
 
 ### 👨🏽‍💻Tech Stack
@@ -35,9 +38,12 @@ I
 
 
 
+
+
+###### Check out some of my games below.
 ###### Reach out to me via emails or LinkedIn to talk about possible opportunities, mentorship, collaborations and everything in between!
 
-####### you can check out some of my games below.
+
 <!--
 **Talha991s/Talha991s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
