@@ -1,8 +1,10 @@
 # Hi there, I am Salick Talhah 👋
 
-### About me
-I am currently a Game programming student.
-Here are some ideas to get you started:
+🙋🏽‍♂️About Me
+I 
+
+
+👨🏽‍💻Tech Stack
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
