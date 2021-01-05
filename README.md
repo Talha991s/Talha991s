@@ -14,7 +14,8 @@ I
 - 📱  Mobile Game Development.
 - 🎮 Console Game Development.
 - 🖌️ OpenGL, DirectX 11.
-- ☁️ AWS Cloudbase networking.
+- ☁️ AWS Cloud database networking.
+- 🕸️ Web Design.
 
 ### 📽️ Current Projects
 - Completing my last Semester for Game Programming April 2021. [Check it out!](https://www.georgebrown.ca/programs/game-programming-program-t163)
@@ -23,6 +24,9 @@ I
 ### 📚 What I'm learning
 - Advance Python.
 - Flutter.
+- Blender Animation.
+- Robust Online Multiplayer System
+
 
 
 
