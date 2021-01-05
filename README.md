@@ -17,7 +17,7 @@ I
 - ☁️ AWS Cloudbase networking.
 
 ### 📽️ Current Projects
-- Completing my last Semester for Game Programming April 2021. [Check it out! ]{https://www.georgebrown.ca/programs/game-programming-program-t163}
+- Completing my last Semester for Game Programming April 2021. [Check it out!](https://www.georgebrown.ca/programs/game-programming-program-t163)
 - Working on a Car Racing game
 
 
