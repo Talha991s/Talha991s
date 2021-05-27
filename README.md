@@ -21,7 +21,7 @@ First and foremost, I am, a passionate learner, who is eager to know more (Googl
 - 🕸️ Web Design.
 
 ### 📽️ Current Projects
-- Completing my last Semester for Game Programming April 2021. [Check it out!](https://www.georgebrown.ca/programs/game-programming-program-t163)
+- Graduated in Game Programming . [Check it out!](https://www.georgebrown.ca/programs/game-programming-program-t163)
 - 🚗 Working on a Car Racing game
 
 ### 📚 What I'm learning
